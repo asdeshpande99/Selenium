@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-12T20:40:12 IST" name="Default suite" finished-at="2025-05-12T20:40:19 IST" duration-ms="7375">
+    <groups>
+    </groups>
+    <test started-at="2025-05-12T20:40:12 IST" name="Default test" finished-at="2025-05-12T20:40:19 IST" duration-ms="7375">
+      <class name="com.demo.advantageShopping.AppTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.demo.advantageShopping.AppTest@6989da5e]" started-at="2025-05-12T20:40:12 IST" name="setup" finished-at="2025-05-12T20:40:15 IST" duration-ms="3000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openHomePage()[pri:0, instance:com.demo.advantageShopping.AppTest@6989da5e]" started-at="2025-05-12T20:40:15 IST" name="openHomePage" finished-at="2025-05-12T20:40:16 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method signature="validateCategoryPage()[pri:0, instance:com.demo.advantageShopping.AppTest@6989da5e]" started-at="2025-05-12T20:40:16 IST" name="validateCategoryPage" finished-at="2025-05-12T20:40:19 IST" duration-ms="2934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCategoryPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.demo.advantageShopping.AppTest@6989da5e]" started-at="2025-05-12T20:40:19 IST" name="teardown" finished-at="2025-05-12T20:40:19 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.advantageShopping.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
